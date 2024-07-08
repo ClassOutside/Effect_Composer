@@ -7,3 +7,7 @@ Blender add-on to assist with generating effects for video editing.
 
 **Cross Fade**
 - Cross Fade effect imports multiple clips and adds a cross fade for a certain duration between each of them.
+
+# Related Videos:
+- Grid Zoom Effect: https://youtu.be/VhnzpRbRF_I
+- Cross Fade Effect: https://youtu.be/6RojWHuMrow
